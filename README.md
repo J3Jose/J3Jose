@@ -1,8 +1,8 @@
-### Ola meu nome é José Vicente Teodoro
+### Olá meu nome é José Vicente Teodoro
 
-Técnico em eletroeletronica.
-Técnologo em Automação Industrial.
-Especialista em Internet das Coisas.
+Técnico em eletroeletronica.<br>
+Técnologo em Automação Industrial.<br>
+Especialista em Internet das Coisas.<br>
 
 
 
