@@ -9,7 +9,7 @@ Especialista em Internet das Coisas.<br>
 
 - 🔭 Instrutor de educação profissional III no curso de desenvolvimento de Sistema no SENAI de São José do Rio Preto
 - 🌱 Aprendendo sobre React Navite
-- 😄 Pronouns: ele/dele
+
 
 
 <div style="display: inline_block"><br>
